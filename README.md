@@ -29,7 +29,7 @@ Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Slicers, Timelines), M
 | Average delivery time | 5.53 days |
 
 ## My contribution
-- Cleaned and transformed the data in Excel Power Query, handling missing values, duplicates and date inconsistencies: [duplicates removed: __ ; missing values fixed: __ ]
+- Cleaned and transformed the data in Excel Power Query, handling missing values, duplicates and date inconsistencies
 - Loaded the customer, product and order tables into MySQL and wrote SQL joins to analyze revenue, average order value, delivery time, and top products and cities
 - Rebuilt the interactive dashboard with Pivot Tables, Pivot Charts, Slicers and Timelines
 
