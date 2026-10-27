@@ -34,8 +34,9 @@ Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Slicers, Timelines), M
 - Rebuilt the interactive dashboard with Pivot Tables, Pivot Charts, Slicers and Timelines
 
 ## Insights
-- [One sentence from your own dashboard, e.g. which occasion or month had the highest revenue]
-- [One sentence about top products or cities]
+- Anniversary and Raksha Bandhan were the highest-revenue occasions, while Diwali was the lowest.
+- Colors was the top product category by revenue, well ahead of Soft Toys and Sweets.
+- Revenue peaked in August and February; Imphal, Dhanbad and Kavali placed the most orders.
 
 ## Files
 - `FNP_Dashboard.xlsx`: dashboard and pivot tables
