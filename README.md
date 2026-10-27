@@ -38,9 +38,6 @@ Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Slicers, Timelines), M
 - Colors was the top product category by revenue, well ahead of Soft Toys and Sweets.
 - Revenue peaked in August and February; Imphal, Dhanbad and Kavali placed the most orders.
 
-## Files
-- `FNP_Dashboard.xlsx`: dashboard and pivot tables
-- `queries.sql`: MySQL queries (add this if it isn't in the repo yet)
 ## 🎯 Outcome
 
 This project demonstrates strong Excel data analysis and dashboarding skills, showcasing the ability to convert raw data into actionable insights through interactive reporting.
